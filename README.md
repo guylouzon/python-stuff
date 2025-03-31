@@ -12,7 +12,7 @@ a function that gets a dataframe, optional number of clusters and Kmeans paramet
 
 
 
-# LTV Revenue Projection Model with Pandas and Matplotlib
+# LTV Revenue Projection Model 
 
 This Python code implements an Expected Lifetime Value (LTV) revenue projection model, as described in Eric Benjamin Seufert's article "Building a marketing P&L using LTV and ROAS". It utilizes the Pandas library for data manipulation and Matplotlib for generating visualizations of the projected revenue, spend, profit, and user growth over time.
 
