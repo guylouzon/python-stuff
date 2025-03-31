@@ -4,6 +4,9 @@ This Python code implements an Expected Lifetime Value (LTV) revenue projection 
 
 ![LTV graphs](pygraph.png)
 
+[Code](https://github.com/guylouzon/python-stuff/blob/main/cohort-based-revenue-projection.py)
+
+
 ## Overview
 
 The script calculates and projects revenue based on a provided cumulative revenue curve, acquisition parameters (number of acquisition days, users acquired per day, and cost per install - CPI). It simulates the revenue generation of cohorts acquired over a period and tracks daily and cumulative metrics like revenue, cost, profit/loss, and user count.
